@@ -1,5 +1,5 @@
 /* 
-  sparse table for max query in range
+  sparse table for max query in range in O(1)
 */
 
 int sparse[maxn][20]; 
